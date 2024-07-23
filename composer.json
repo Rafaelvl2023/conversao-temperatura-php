@@ -1,0 +1,19 @@
+{
+    "name": "rafaelvl2023/conversao-temperatura",
+    "description": "converte a temperatura",
+    "type": "library",
+    "license": "None",
+    "autoload": {
+        "psr-4": {
+            "Rafaelvl2023\\ConversaoTemperatura\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Teixeira",
+            "email": "rafaelteixeiravl@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
